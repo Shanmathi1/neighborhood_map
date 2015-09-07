@@ -2,7 +2,6 @@
 
 This project is built using Google Maps API, Foursquare API and knockoutjs framework. This web app shows popular places in the user defined location.
 
-Features Include:
 
 A full-screen map to page using the Google Maps API.
 Map markers identifying a number of favorite locations within Chicago neighborhood.
