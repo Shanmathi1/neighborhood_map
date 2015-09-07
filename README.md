@@ -1,6 +1,4 @@
-# neighborhood_map
-
-Neighborhood Map: 
+# Neighborhood Map
 
 This project is built using Google Maps API, Foursquare API and knockoutjs framework. This web app shows popular places in the user defined location.
 
