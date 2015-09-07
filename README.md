@@ -10,3 +10,5 @@ You can also use search bar on top to filter the places.
 Foursquare API is used to show related information of the location.
 
 Try it out at :
+
+http://shanmathi1.github.io/neighborhood_map/
